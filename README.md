@@ -1,1 +1,1 @@
-# rC3-world
+https://test.visit.at.wa-test.rc3.cccv.de/_/global/raw.githubusercontent.com/flipdot/rC3-world/main/main.json
