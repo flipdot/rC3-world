@@ -55,7 +55,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/maps\/generic-tech.json#start}"
+                 "value":"{<lobby>\/maps\/generic-tech.json#start_flipdot}"
                 }],
          "type":"tilelayer",
          "visible":false,
