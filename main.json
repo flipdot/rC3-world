@@ -73,7 +73,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"space.json#spaceStart"
+                 "value":"{<flipdot>\/space.json#spaceStart}"
                 }],
          "type":"tilelayer",
          "visible":true,
