@@ -194,7 +194,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<flipdot>\/main.json}"
+                 "value":"{<flipdot>\/main.json#startCellar}"
                 }],
          "type":"tilelayer",
          "visible":true,
