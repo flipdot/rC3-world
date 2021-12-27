@@ -99,7 +99,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"space.json#spaceStart"
+                 "value":"space.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
