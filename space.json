@@ -460,6 +460,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"AceSet-Hospital",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"FreeSeedMaterial; https:\/\/www.deviantart.com\/milkian;"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
