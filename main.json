@@ -1,11 +1,4 @@
 { "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "target":"."
-        }
-    },
  "height":128,
  "infinite":false,
  "layers":[
@@ -127,7 +120,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/maps\/generic-tech.json#start_flipdot}"
+                 "value":"world:\/\/lobby\/pcb.json#start_flipdot"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -458,7 +451,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.6.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -1031,6 +1024,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":128
 }
