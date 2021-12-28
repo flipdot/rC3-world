@@ -422,6 +422,12 @@
                  "height":247.907949790795,
                  "id":17,
                  "name":"",
+                 "properties":[
+                        {
+                         "name":"url",
+                         "type":"string",
+                         "value":"https:\/\/waboorrt.flipdot.org\/?fullscreen=true"
+                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -432,12 +438,6 @@
          "offsetx":21.6642016068108,
          "offsety":-7.57757184158527,
          "opacity":1,
-         "properties":[
-                {
-                 "name":"url",
-                 "type":"string",
-                 "value":"https:\/\/waboorrt.flipdot.org\/?fullscreen=true"
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
